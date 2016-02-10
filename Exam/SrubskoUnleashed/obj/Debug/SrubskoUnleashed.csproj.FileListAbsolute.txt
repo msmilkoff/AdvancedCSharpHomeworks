@@ -1,0 +1,6 @@
+C:\trash\Exam11-Oct-2015\SrubskoUnleashed\bin\Debug\SrubskoUnleashed.exe.config
+C:\trash\Exam11-Oct-2015\SrubskoUnleashed\bin\Debug\SrubskoUnleashed.exe
+C:\trash\Exam11-Oct-2015\SrubskoUnleashed\bin\Debug\SrubskoUnleashed.pdb
+C:\trash\Exam11-Oct-2015\SrubskoUnleashed\obj\Debug\SrubskoUnleashed.csprojResolveAssemblyReference.cache
+C:\trash\Exam11-Oct-2015\SrubskoUnleashed\obj\Debug\SrubskoUnleashed.exe
+C:\trash\Exam11-Oct-2015\SrubskoUnleashed\obj\Debug\SrubskoUnleashed.pdb

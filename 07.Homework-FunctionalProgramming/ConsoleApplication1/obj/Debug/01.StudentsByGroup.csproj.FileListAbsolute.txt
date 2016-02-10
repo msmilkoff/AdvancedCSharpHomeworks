@@ -1,0 +1,6 @@
+C:\trash\Homework-FunctionalProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\trash\Homework-FunctionalProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\trash\Homework-FunctionalProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\trash\Homework-FunctionalProgramming\ConsoleApplication1\obj\Debug\01.StudentsByGroup.csprojResolveAssemblyReference.cache
+C:\trash\Homework-FunctionalProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\trash\Homework-FunctionalProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

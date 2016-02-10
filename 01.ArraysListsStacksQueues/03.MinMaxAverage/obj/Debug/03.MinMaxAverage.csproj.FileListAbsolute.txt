@@ -1,0 +1,6 @@
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe.config
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.pdb
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.exe
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\Strings\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\Mario\Documents\trash\Strings\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\Mario\Documents\trash\Strings\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\Mario\Documents\trash\Strings\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\Mario\Documents\trash\Strings\Palindromes\obj\Debug\Palindromes.pdb
+C:\Users\Mario\Documents\trash\Strings\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\trash\Homework-FunctionalProgramming\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe.config
+C:\trash\Homework-FunctionalProgramming\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe
+C:\trash\Homework-FunctionalProgramming\03.StudentsByAge\bin\Debug\03.StudentsByAge.pdb
+C:\trash\Homework-FunctionalProgramming\03.StudentsByAge\bin\Debug\ConsoleApplication1.exe
+C:\trash\Homework-FunctionalProgramming\03.StudentsByAge\bin\Debug\ConsoleApplication1.pdb
+C:\trash\Homework-FunctionalProgramming\03.StudentsByAge\obj\Debug\03.StudentsByAge.exe
+C:\trash\Homework-FunctionalProgramming\03.StudentsByAge\obj\Debug\03.StudentsByAge.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\Strings\03.CountSubstringOccurances\bin\Debug\03.CountSubstringOccurances.exe.config
+C:\Users\Mario\Documents\trash\Strings\03.CountSubstringOccurances\bin\Debug\03.CountSubstringOccurances.exe
+C:\Users\Mario\Documents\trash\Strings\03.CountSubstringOccurances\bin\Debug\03.CountSubstringOccurances.pdb
+C:\Users\Mario\Documents\trash\Strings\03.CountSubstringOccurances\obj\Debug\03.CountSubstringOccurances.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\trash\Strings\03.CountSubstringOccurances\obj\Debug\03.CountSubstringOccurances.exe
+C:\Users\Mario\Documents\trash\Strings\03.CountSubstringOccurances\obj\Debug\03.CountSubstringOccurances.pdb

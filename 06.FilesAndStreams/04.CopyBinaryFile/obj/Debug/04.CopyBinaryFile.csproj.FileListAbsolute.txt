@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\FilesAndStreams\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+C:\Users\Mario\Documents\trash\FilesAndStreams\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+C:\Users\Mario\Documents\trash\FilesAndStreams\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+C:\Users\Mario\Documents\trash\FilesAndStreams\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\trash\FilesAndStreams\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+C:\Users\Mario\Documents\trash\FilesAndStreams\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

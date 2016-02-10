@@ -1,0 +1,9 @@
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb

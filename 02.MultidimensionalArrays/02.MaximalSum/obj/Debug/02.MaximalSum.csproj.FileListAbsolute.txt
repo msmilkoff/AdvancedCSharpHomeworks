@@ -1,0 +1,2 @@
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config

@@ -1,0 +1,8 @@
+C:\trash\Homework-FunctionalProgramming\04.SortStudents\bin\Debug\04.SortStudents.exe.config
+C:\trash\Homework-FunctionalProgramming\04.SortStudents\bin\Debug\04.SortStudents.exe
+C:\trash\Homework-FunctionalProgramming\04.SortStudents\bin\Debug\04.SortStudents.pdb
+C:\trash\Homework-FunctionalProgramming\04.SortStudents\bin\Debug\ConsoleApplication1.exe
+C:\trash\Homework-FunctionalProgramming\04.SortStudents\bin\Debug\ConsoleApplication1.pdb
+C:\trash\Homework-FunctionalProgramming\04.SortStudents\obj\Debug\04.SortStudents.csprojResolveAssemblyReference.cache
+C:\trash\Homework-FunctionalProgramming\04.SortStudents\obj\Debug\04.SortStudents.exe
+C:\trash\Homework-FunctionalProgramming\04.SortStudents\obj\Debug\04.SortStudents.pdb

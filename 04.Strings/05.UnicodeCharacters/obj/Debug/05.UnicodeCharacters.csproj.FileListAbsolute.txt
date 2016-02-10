@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\Strings\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+C:\Users\Mario\Documents\trash\Strings\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
+C:\Users\Mario\Documents\trash\Strings\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
+C:\Users\Mario\Documents\trash\Strings\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\trash\Strings\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+C:\Users\Mario\Documents\trash\Strings\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

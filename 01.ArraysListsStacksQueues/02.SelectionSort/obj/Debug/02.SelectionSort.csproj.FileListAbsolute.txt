@@ -1,0 +1,6 @@
+c:\users\mario\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\02.SelectionSort\bin\Debug\02.SelectionSort.exe.config
+c:\users\mario\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\02.SelectionSort\bin\Debug\02.SelectionSort.exe
+c:\users\mario\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\02.SelectionSort\bin\Debug\02.SelectionSort.pdb
+c:\users\mario\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\02.SelectionSort\obj\Debug\02.SelectionSort.exe
+c:\users\mario\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\02.SelectionSort\obj\Debug\02.SelectionSort.pdb
+c:\users\mario\documents\visual studio 2013\Projects\01.ArraysListsStacksQueues\02.SelectionSort\obj\Debug\02.SelectionSort.csprojResolveAssemblyReference.cache

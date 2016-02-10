@@ -1,0 +1,6 @@
+C:\trash\Exam11-Oct-2015\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+C:\trash\Exam11-Oct-2015\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+C:\trash\Exam11-Oct-2015\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+C:\trash\Exam11-Oct-2015\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\trash\Exam11-Oct-2015\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+C:\trash\Exam11-Oct-2015\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

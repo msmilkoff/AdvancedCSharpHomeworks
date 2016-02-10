@@ -1,0 +1,8 @@
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\bin\Debug\06.FilterByPhoneNumber.exe.config
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\bin\Debug\06.FilterByPhoneNumber.exe
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\bin\Debug\06.FilterByPhoneNumber.pdb
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\bin\Debug\ConsoleApplication1.exe
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\bin\Debug\ConsoleApplication1.pdb
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\obj\Debug\06.FilterByPhoneNumber.csprojResolveAssemblyReference.cache
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\obj\Debug\06.FilterByPhoneNumber.exe
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\obj\Debug\06.FilterByPhoneNumber.pdb

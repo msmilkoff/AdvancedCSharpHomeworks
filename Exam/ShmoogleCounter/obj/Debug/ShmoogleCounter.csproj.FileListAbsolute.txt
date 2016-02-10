@@ -1,0 +1,6 @@
+C:\trash\Exam11-Oct-2015\ShmoogleCounter\bin\Debug\ShmoogleCounter.exe.config
+C:\trash\Exam11-Oct-2015\ShmoogleCounter\bin\Debug\ShmoogleCounter.exe
+C:\trash\Exam11-Oct-2015\ShmoogleCounter\bin\Debug\ShmoogleCounter.pdb
+C:\trash\Exam11-Oct-2015\ShmoogleCounter\obj\Debug\ShmoogleCounter.exe
+C:\trash\Exam11-Oct-2015\ShmoogleCounter\obj\Debug\ShmoogleCounter.pdb
+C:\trash\Exam11-Oct-2015\ShmoogleCounter\obj\Debug\ShmoogleCounter.csprojResolveAssemblyReference.cache

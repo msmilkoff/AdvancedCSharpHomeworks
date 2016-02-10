@@ -1,0 +1,5 @@
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\FillTheMatrixB\bin\Debug\FillTheMatrixB.exe.config
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\FillTheMatrixB\bin\Debug\FillTheMatrixB.exe
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\FillTheMatrixB\bin\Debug\FillTheMatrixB.pdb
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\FillTheMatrixB\obj\Debug\FillTheMatrixB.exe
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\FillTheMatrixB\obj\Debug\FillTheMatrixB.pdb

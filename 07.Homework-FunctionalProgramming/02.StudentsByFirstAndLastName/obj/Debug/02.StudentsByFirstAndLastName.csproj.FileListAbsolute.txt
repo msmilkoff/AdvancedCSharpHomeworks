@@ -1,0 +1,8 @@
+C:\trash\Homework-FunctionalProgramming\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.exe.config
+C:\trash\Homework-FunctionalProgramming\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.exe
+C:\trash\Homework-FunctionalProgramming\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.pdb
+C:\trash\Homework-FunctionalProgramming\02.StudentsByFirstAndLastName\bin\Debug\ConsoleApplication1.exe
+C:\trash\Homework-FunctionalProgramming\02.StudentsByFirstAndLastName\bin\Debug\ConsoleApplication1.pdb
+C:\trash\Homework-FunctionalProgramming\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.csprojResolveAssemblyReference.cache
+C:\trash\Homework-FunctionalProgramming\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.exe
+C:\trash\Homework-FunctionalProgramming\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.pdb

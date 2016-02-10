@@ -1,0 +1,3 @@
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\bin\Debug\06.FilterByPhoneNumber.exe.config
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\obj\Debug\06.FilterByPhoneNumber.exe
+C:\trash\Homework-FunctionalProgramming\06.FilterByPhoneNumber\obj\Debug\06.FilterByPhoneNumber.pdb

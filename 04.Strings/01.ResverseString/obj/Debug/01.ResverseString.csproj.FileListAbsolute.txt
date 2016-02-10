@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\Strings\01.ResverseString\bin\Debug\01.ResverseString.exe.config
+C:\Users\Mario\Documents\trash\Strings\01.ResverseString\bin\Debug\01.ResverseString.exe
+C:\Users\Mario\Documents\trash\Strings\01.ResverseString\bin\Debug\01.ResverseString.pdb
+C:\Users\Mario\Documents\trash\Strings\01.ResverseString\obj\Debug\01.ResverseString.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\trash\Strings\01.ResverseString\obj\Debug\01.ResverseString.exe
+C:\Users\Mario\Documents\trash\Strings\01.ResverseString\obj\Debug\01.ResverseString.pdb

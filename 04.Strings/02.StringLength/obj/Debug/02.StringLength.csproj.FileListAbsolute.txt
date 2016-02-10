@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\trash\Strings\02.StringLength\bin\Debug\02.StringLength.exe.config
+C:\Users\Mario\Documents\trash\Strings\02.StringLength\bin\Debug\02.StringLength.exe
+C:\Users\Mario\Documents\trash\Strings\02.StringLength\bin\Debug\02.StringLength.pdb
+C:\Users\Mario\Documents\trash\Strings\02.StringLength\obj\Debug\02.StringLength.exe
+C:\Users\Mario\Documents\trash\Strings\02.StringLength\obj\Debug\02.StringLength.pdb

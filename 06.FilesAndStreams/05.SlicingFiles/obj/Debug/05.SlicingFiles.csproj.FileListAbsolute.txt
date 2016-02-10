@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\FilesAndStreams\05.SlicingFiles\bin\Debug\05.SlicingFiles.exe.config
+C:\Users\Mario\Documents\trash\FilesAndStreams\05.SlicingFiles\bin\Debug\05.SlicingFiles.exe
+C:\Users\Mario\Documents\trash\FilesAndStreams\05.SlicingFiles\bin\Debug\05.SlicingFiles.pdb
+C:\Users\Mario\Documents\trash\FilesAndStreams\05.SlicingFiles\obj\Debug\05.SlicingFiles.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\trash\FilesAndStreams\05.SlicingFiles\obj\Debug\05.SlicingFiles.exe
+C:\Users\Mario\Documents\trash\FilesAndStreams\05.SlicingFiles\obj\Debug\05.SlicingFiles.pdb

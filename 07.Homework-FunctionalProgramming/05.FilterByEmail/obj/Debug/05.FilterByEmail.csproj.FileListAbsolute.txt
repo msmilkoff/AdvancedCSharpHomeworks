@@ -1,0 +1,8 @@
+C:\trash\Homework-FunctionalProgramming\05.FilterByEmail\bin\Debug\05.FilterByEmail.exe.config
+C:\trash\Homework-FunctionalProgramming\05.FilterByEmail\bin\Debug\05.FilterByEmail.exe
+C:\trash\Homework-FunctionalProgramming\05.FilterByEmail\bin\Debug\05.FilterByEmail.pdb
+C:\trash\Homework-FunctionalProgramming\05.FilterByEmail\bin\Debug\ConsoleApplication1.exe
+C:\trash\Homework-FunctionalProgramming\05.FilterByEmail\bin\Debug\ConsoleApplication1.pdb
+C:\trash\Homework-FunctionalProgramming\05.FilterByEmail\obj\Debug\05.FilterByEmail.csprojResolveAssemblyReference.cache
+C:\trash\Homework-FunctionalProgramming\05.FilterByEmail\obj\Debug\05.FilterByEmail.exe
+C:\trash\Homework-FunctionalProgramming\05.FilterByEmail\obj\Debug\05.FilterByEmail.pdb

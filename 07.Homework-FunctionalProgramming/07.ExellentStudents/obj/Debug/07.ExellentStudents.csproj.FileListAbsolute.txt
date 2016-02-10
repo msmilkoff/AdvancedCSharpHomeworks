@@ -1,0 +1,8 @@
+C:\trash\Homework-FunctionalProgramming\07.ExellentStudents\bin\Debug\07.ExellentStudents.exe.config
+C:\trash\Homework-FunctionalProgramming\07.ExellentStudents\bin\Debug\07.ExellentStudents.exe
+C:\trash\Homework-FunctionalProgramming\07.ExellentStudents\bin\Debug\07.ExellentStudents.pdb
+C:\trash\Homework-FunctionalProgramming\07.ExellentStudents\bin\Debug\ConsoleApplication1.exe
+C:\trash\Homework-FunctionalProgramming\07.ExellentStudents\bin\Debug\ConsoleApplication1.pdb
+C:\trash\Homework-FunctionalProgramming\07.ExellentStudents\obj\Debug\07.ExellentStudents.csprojResolveAssemblyReference.cache
+C:\trash\Homework-FunctionalProgramming\07.ExellentStudents\obj\Debug\07.ExellentStudents.exe
+C:\trash\Homework-FunctionalProgramming\07.ExellentStudents\obj\Debug\07.ExellentStudents.pdb

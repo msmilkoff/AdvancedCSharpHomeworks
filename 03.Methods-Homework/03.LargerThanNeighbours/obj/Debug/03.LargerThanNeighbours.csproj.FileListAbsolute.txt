@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\Methods-Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+C:\Users\Mario\Documents\trash\Methods-Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
+C:\Users\Mario\Documents\trash\Methods-Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
+C:\Users\Mario\Documents\trash\Methods-Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\trash\Methods-Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+C:\Users\Mario\Documents\trash\Methods-Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb

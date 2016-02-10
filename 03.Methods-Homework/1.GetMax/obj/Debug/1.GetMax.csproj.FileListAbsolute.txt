@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\Methods-Homework\1.GetMax\bin\Debug\1.GetMax.exe.config
+C:\Users\Mario\Documents\trash\Methods-Homework\1.GetMax\obj\Debug\1.GetMax.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\trash\Methods-Homework\1.GetMax\bin\Debug\1.GetMax.exe
+C:\Users\Mario\Documents\trash\Methods-Homework\1.GetMax\bin\Debug\1.GetMax.pdb
+C:\Users\Mario\Documents\trash\Methods-Homework\1.GetMax\obj\Debug\1.GetMax.exe
+C:\Users\Mario\Documents\trash\Methods-Homework\1.GetMax\obj\Debug\1.GetMax.pdb

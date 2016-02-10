@@ -1,0 +1,6 @@
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.exe.config
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.exe
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.pdb
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.csprojResolveAssemblyReference.cache
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.exe
+C:\SoftUni\Advanced C#\Homeworks\01.ArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.pdb

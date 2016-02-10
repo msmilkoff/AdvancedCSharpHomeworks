@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\trash\FilesAndStreams\03.WordsCount\bin\Debug\03.WordsCount.exe.config
+C:\Users\Mario\Documents\trash\FilesAndStreams\03.WordsCount\bin\Debug\03.WordsCount.exe
+C:\Users\Mario\Documents\trash\FilesAndStreams\03.WordsCount\bin\Debug\03.WordsCount.pdb
+C:\Users\Mario\Documents\trash\FilesAndStreams\03.WordsCount\obj\Debug\03.WordsCount.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\trash\FilesAndStreams\03.WordsCount\obj\Debug\03.WordsCount.exe
+C:\Users\Mario\Documents\trash\FilesAndStreams\03.WordsCount\obj\Debug\03.WordsCount.pdb

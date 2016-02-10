@@ -1,0 +1,1 @@
+C:\SoftUni\Advanced C#\Homeworks\02.MultidimensionalArrays\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
